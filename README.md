@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahadarmannabid
-- 👀 I’m interested in human computer interaction, data visualization, cognitive learning, machine learning and natural language processing.
-- 🌱 I’m currently learning narrative data visualization in the context of learning. However, I want make someting interesting with react and web analytics.
-- 💞️ I’m looking to collaborate on research project on children's just in time learning in AI assisted environment.
+👀 I’m interested in human-computer interaction, data visualization, cognitive learning, machine learning, and natural language processing.
+- 🌱 I’m currently working on expert goggles, procedural scaffolding, and storytelling projects. 
+- 💞️ I’m looking to collaborate on research in HCI topics focused on learning, storytelling, and data visualization.
 - 📫 How to reach me: mail to ran.nabid@gmail.com or rahad.arman.nabid@temple.edu
 
 <!---
